@@ -7,4 +7,8 @@ My favorite days of the week:
 4. Wednesday
 5. Thursday
 6. Tuesday
+<<<<<<< HEAD
 7. Monday
+=======
+7. Monday
+>>>>>>> 692ad0b7423c695a11b70fd0a1008a0d603ae051
